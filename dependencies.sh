@@ -24,5 +24,3 @@ cd LCD-show/
 sudo ./LCD-hdmi
 
 sudo apt install kismet gpsd gpsd-clients aircrack-ng python-gps
-sudo rm -f /etc/default/gpsd
-mv gpsd /etc/default/
